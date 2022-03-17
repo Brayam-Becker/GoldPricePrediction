@@ -1,4 +1,4 @@
-# GoldPricePrediction
+# GoldPricePrediction<br>
 YT ML project using Linear RandomForestRegressor model to predict the price of the gold
 <br><br>
 Follow the flow below:<br><br>
